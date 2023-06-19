@@ -1,0 +1,36 @@
+.container {
+    -fx-alignment: center;
+    -fx-spacing: 20px;
+}
+
+.container-login {
+    -fx-alignment: center;
+    -fx-spacing: 20px;
+    -fx-max-width: 400px;
+}
+
+
+.title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #cda45e;
+}
+
+.error {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #cc2d1b;
+}
+
+.textfield { 
+    -fx-margin: 20px;
+    -fx-pref-width: 200px;
+}
+
+
+.button {
+    -fx-font-size: 16px;
+    -fx-background-color: #3f51b5;
+    -fx-text-fill: white;
+    -fx-font-size: 14px; /* Définition de la taille de police */
+}
